@@ -31,9 +31,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Tools Used
 
-- **SQL / PostgreSQL** — querying, cleaning, and analyzing relational data
-- **Python** — Pandas, Matplotlib, Seaborn for data analysis and visualization
-- **Jupyter Notebook** — analysis and commentary
-- **Tableau** — dashboarding and visualization
-- **Visual Studio Code** — script execution
-- **Git & GitHub** — version control
+- **SQL / PostgreSQL:** querying, cleaning, and analyzing relational data
+- **Python:** Pandas, Matplotlib, Seaborn for data analysis and visualization
+- **Jupyter Notebook:** analysis and commentary
+- **Tableau:** dashboarding and visualization
+- **Visual Studio Code:** script execution
+- **Git & GitHub:** version control
