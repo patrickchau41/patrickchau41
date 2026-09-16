@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## Healthcare Analytics
 
-*(Coming soon — projects using CMS/CDC public datasets, focused on healthcare data analysis)*
+*(Coming soon: projects using CMS/CDC public datasets, focused on healthcare data analysis)*
 
 ## Tools Used
 
