@@ -9,34 +9,31 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Healthcare Analytics](#healthcare-analytics)
-
----
+- [Tools Used](#tools-used)
 
 ## SQL
 
 | Project | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| [Data Job Market Analysis](https://github.com/patrickchau41/SQL/tree/main/data_job_market_project) | 2026 | SQL / PostgreSQL | Explores top-paying data analyst roles, in-demand skills, and where high demand meets high salary in the data analytics job market. **Techniques:** CTEs, joins, aggregations, ranking logic |
-| [Global Tech Layoffs Analysis](https://github.com/patrickchau41/SQL/tree/main/layoffs_project) | 2026 | SQL / PostgreSQL | Cleans and analyzes a real-world dataset of global tech layoffs to help job seekers evaluate industry, company, and geographic risk before accepting a role. **Techniques:** Window functions, self-joins, NULL handling, data type conversion |
-
----
+| [Data Job Market Analysis](https://github.com/patrickchau41/SQL/tree/main/data_job_market_project) | 2026 | SQL / PostgreSQL | Explores top-paying data analyst roles, in-demand skills, and where high demand meets high salary in the data analytics job market. Techniques: CTEs, joins, aggregations, ranking logic |
+| [Global Tech Layoffs Analysis](https://github.com/patrickchau41/SQL/tree/main/layoffs_project) | 2026 | SQL / PostgreSQL | Cleans and analyzes a real-world dataset of global tech layoffs to help job seekers evaluate industry, company, and geographic risk before accepting a role. Techniques: Window functions, self-joins, NULL handling, data type conversion |
 
 ## Python
 
 | Project | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| [Data Job Market Analysis](https://github.com/patrickchau41/Python/tree/main/Projects/Data_Job_Market_Analysis_Project) | 2026 | Python, Pandas, Matplotlib | Analyzes the data analyst job market to identify top-paying roles, in-demand skills, and the intersection of demand and salary. **Techniques:** Data cleaning, exploratory data analysis, visualization |
-
----
+| [Data Job Market Analysis](https://github.com/patrickchau41/Python/tree/main/Projects/Data_Job_Market_Analysis_Project) | 2026 | Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook | Analyzes the data analyst job market to identify top-paying roles, in-demand skills, and the intersection of demand and salary. Includes skill-demand breakdowns by role, year-long trend analysis, salary distribution boxplots, and a scatter plot identifying the most "optimal" skills to learn. |
+| [London Bike Rides Analysis](https://github.com/patrickchau41/Python/tree/main/Projects/London_Bike_Project) | 2026 | Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, Tableau | Cleans and analyzes over 17,000 hourly London bike-share records, examining how weather, temperature, time of day, and time of week shape ridership behavior. Includes an interactive Tableau dashboard with a 20-day moving average trend and a temperature vs. wind speed heatmap. |
 
 ## Healthcare Analytics
-*(Coming soon \u2014 projects using CMS/CDC public datasets, focused on healthcare data analysis)*
 
----
+*(Coming soon — projects using CMS/CDC public datasets, focused on healthcare data analysis)*
 
 ## Tools Used
-- SQL / PostgreSQL
-- Python (Pandas, Matplotlib)
-- Excel (PivotTables, Power Query)
-- Visual Studio Code
-- Git & GitHub
+
+- **SQL / PostgreSQL** — querying, cleaning, and analyzing relational data
+- **Python** — Pandas, Matplotlib, Seaborn for data analysis and visualization
+- **Jupyter Notebook** — analysis and commentary
+- **Tableau** — dashboarding and visualization
+- **Visual Studio Code** — script execution
+- **Git & GitHub** — version control
