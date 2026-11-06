@@ -34,13 +34,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | [E-Commerce Marketing Analytics](https://github.com/patrickchau41/Excel/tree/main/ecommerce_marketing_analytics) | 2026 | Excel, XLOOKUP, Pivot Tables, RFM Scoring | Analyzes 138,000+ orders and 24,900+ customers across five linked files to compare marketing channels, campaign ROI, and customer segments. Finds that the top 13.5% of customers drive 23.2% of value, with lapsed customers (about 456 days inactive) ranking second, and traces a misleading regional margin gap to a data artifact. |
 | [Coffee Sales Dashboard](https://github.com/patrickchau41/Excel/tree/main/coffee_sales_dashboard) | 2026 | Excel, XLOOKUP, Pivot Tables, Slicers | Cleans and combines a coffee sales dataset (1,000+ transactions, 2019–2026) spread across three separate sheets, then builds an interactive dashboard exploring sales by coffee type, country, and loyalty card status. Uncovers that non-loyalty customers outspend loyalty members by $2.81 per order, and that average order value has declined every year of the dataset. |
 
-## Healthcare Analytics
-
-| Project | Completion Date | Tools | Project Description |
-|---|---|---|---|
-| [Diabetic Patient 30-Day Readmission](https://github.com/patrickchau41/Python/Projects/tree/main/healthcare) | 2026 | Python, Pandas, Power BI | Finds that discharge destination and prior inpatient stays are the strongest readmission factors (rehab 26.4% vs. home 6.9%; 3+ prior stays 26.4% vs. none 8.1%), and turns them into risk tiers a hospital could use to prioritize follow-up. Includes a one-page Power BI dashboard with risk-tier, prior-stays, and diagnosis views. |
-
-*More healthcare projects using CMS/CDC public datasets are planned.*
 
 ## Tools Used
 
