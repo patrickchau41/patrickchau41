@@ -38,7 +38,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project | Completion Date | Tools | Project Description |
 |---|---|---|---|
-| [Diabetic Patient 30-Day Readmission](https://github.com/patrickchau41/Python/tree/main/healthcare) | 2026 | Python, Pandas, Power BI | Finds that discharge destination and prior inpatient stays are the strongest readmission factors (rehab 26.4% vs. home 6.9%; 3+ prior stays 26.4% vs. none 8.1%), and turns them into risk tiers a hospital could use to prioritize follow-up. Includes a one-page Power BI dashboard with risk-tier, prior-stays, and diagnosis views. |
+| [Diabetic Patient 30-Day Readmission](https://github.com/patrickchau41/Python/Projects/tree/main/healthcare) | 2026 | Python, Pandas, Power BI | Finds that discharge destination and prior inpatient stays are the strongest readmission factors (rehab 26.4% vs. home 6.9%; 3+ prior stays 26.4% vs. none 8.1%), and turns them into risk tiers a hospital could use to prioritize follow-up. Includes a one-page Power BI dashboard with risk-tier, prior-stays, and diagnosis views. |
 
 *More healthcare projects using CMS/CDC public datasets are planned.*
 
