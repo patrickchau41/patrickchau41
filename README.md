@@ -1,7 +1,7 @@
 # Patrick's Portfolio
 
 ## About Me
-Hi, I'm Patrick. I am a Statistics graduate from the University of California, Riverside with a genuine passion for turning messy, real-world data into clear, actionable insights. My work spans SQL, Python, Excel, and Power BI, with a focus on data cleaning, exploratory analysis, and building dashboards that answer real questions. I'm drawn to healthcare analytics, where data skills have a direct, tangible impact on people, and my most recent project analyzes hospital readmissions.
+Hi, I'm Patrick! I am a Statistics graduate from the University of California, Riverside with a genuine passion for turning messy, real-world data into clear, actionable insights. My work spans SQL, Python, Excel, and Power BI, with a focus on data cleaning, exploratory analysis, and building dashboards that answer real questions. I'm drawn to healthcare analytics, where data skills have a direct, tangible impact on people, and my most recent project analyzes hospital readmissions.
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
