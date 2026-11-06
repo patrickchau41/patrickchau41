@@ -1,7 +1,7 @@
 # Patrick's Portfolio
 
 ## About Me
-Hi, I'm Patrick. I am a Statistics graduate from the University of California, Riverside with a genuine passion for turning messy, real-world data into clear, actionable insights. My work spans SQL, Python, and Excel, with a focus on data cleaning, exploratory analysis, and building dashboards that answer real questions. I'm currently working to expand into healthcare analytics, drawn to the idea of applying data skills to work that has a direct, tangible impact on people.
+Hi, I'm Patrick. I am a Statistics graduate from the University of California, Riverside with a genuine passion for turning messy, real-world data into clear, actionable insights. My work spans SQL, Python, Excel, and Power BI, with a focus on data cleaning, exploratory analysis, and building dashboards that answer real questions. I'm drawn to healthcare analytics, where data skills have a direct, tangible impact on people, and my most recent project analyzes hospital readmissions.
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
@@ -23,6 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| [Diabetic Patient 30-Day Readmission](https://github.com/patrickchau41/Python/tree/main/healthcare) | 2026 | Python, Pandas, Jupyter Notebook, Power BI | Cleans 101,766 hospital records down to 69,982 first-visit diabetic patients and answers nine questions on what drives 30-day readmission (8.98% overall). Builds High / Medium / Standard risk tiers that flag the top patients for follow-up (23.1% readmitted vs. 6.8% in the Standard tier), plus a one-page interactive Power BI dashboard. |
 | [Data Job Market Analysis](https://github.com/patrickchau41/Python/tree/main/Projects/Data_Job_Market_Analysis_Project) | 2026 | Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook | Analyzes the data analyst job market to identify top-paying roles, in-demand skills, and the intersection of demand and salary. Includes skill-demand breakdowns by role, year-long trend analysis, salary distribution boxplots, and a scatter plot identifying the most "optimal" skills to learn. |
 | [London Bike Rides Analysis](https://github.com/patrickchau41/Python/tree/main/Projects/London_Bike_Project) | 2026 | Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, Tableau | Cleans and analyzes over 17,000 hourly London bike-share records, examining how weather, temperature, time of day, and time of week shape ridership behavior. Includes an interactive Tableau dashboard with a 20-day moving average trend and a temperature vs. wind speed heatmap. |
 
@@ -30,17 +31,24 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project | Completion Date | Tools | Project Description |
 |---|---|---|---|
+| [E-Commerce Marketing Analytics](https://github.com/patrickchau41/Excel/tree/main/ecommerce_marketing_analytics) | 2026 | Excel, XLOOKUP, Pivot Tables, RFM Scoring | Analyzes 138,000+ orders and 24,900+ customers across five linked files to compare marketing channels, campaign ROI, and customer segments. Finds that the top 13.5% of customers drive 23.2% of value, with lapsed customers (about 456 days inactive) ranking second, and traces a misleading regional margin gap to a data artifact. |
 | [Coffee Sales Dashboard](https://github.com/patrickchau41/Excel/tree/main/coffee_sales_dashboard) | 2026 | Excel, XLOOKUP, Pivot Tables, Slicers | Cleans and combines a coffee sales dataset (1,000+ transactions, 2019–2026) spread across three separate sheets, then builds an interactive dashboard exploring sales by coffee type, country, and loyalty card status. Uncovers that non-loyalty customers outspend loyalty members by $2.81 per order, and that average order value has declined every year of the dataset. |
 
 ## Healthcare Analytics
 
-*(Coming soon — projects using CMS/CDC public datasets, focused on healthcare data analysis)*
+| Project | Completion Date | Tools | Project Description |
+|---|---|---|---|
+| [Diabetic Patient 30-Day Readmission](https://github.com/patrickchau41/Python/tree/main/healthcare) | 2026 | Python, Pandas, Power BI | Finds that discharge destination and prior inpatient stays are the strongest readmission factors (rehab 26.4% vs. home 6.9%; 3+ prior stays 26.4% vs. none 8.1%), and turns them into risk tiers a hospital could use to prioritize follow-up. Includes a one-page Power BI dashboard with risk-tier, prior-stays, and diagnosis views. |
+
+*More healthcare projects using CMS/CDC public datasets are planned.*
 
 ## Tools Used
 
 - **SQL / PostgreSQL** — querying, cleaning, and analyzing relational data
 - **Python** — Pandas, Matplotlib, Seaborn for data analysis and visualization
-- **Jupyter Notebook** — analysis and commentary
+- **Excel** — XLOOKUP, Pivot Tables, slicers, and dashboards
+- **Power BI** — interactive dashboards
 - **Tableau** — dashboarding and visualization
+- **Jupyter Notebook** — analysis and commentary
 - **Visual Studio Code** — script execution
 - **Git & GitHub** — version control
